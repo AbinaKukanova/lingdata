@@ -1,0 +1,16 @@
+1	 //_PUNCT  просто_PART умный_ADJ …_PUNCT //_PUNCT  	понимать_VERB ?_PUNCT //_PUNCT  больше_ADV знать_VERB //_PUNCT  	livecorpus2021_lemma_pos.1.txt
+2	  прямой_ADJ связь_NOUN //_PUNCT  ну_PART /_PUNCT 	понимать_VERB /_PUNCT как_ADV /_PUNCT мм_INTJ //_PUNCT  	livecorpus2021_lemma_pos.1.txt
+3	  //_PUNCT  я_PRON вот_PART /_PUNCT не_PART 	понимать_VERB зачем_ADV ?_PUNCT //_PUNCT  че_ADV вы_	livecorpus2021_lemma_pos.1.txt
+4	  //_PUNCT  вот_PART //_PUNCT  кой_PRON что_PRON 	понимать_VERB по-немецки_ADV //_PUNCT  кура_NOUN ловить_	livecorpus2021_lemma_pos.1.txt
+5	 _ADV -_PUNCT сюда_ADV //_PUNCT я_PRON так_	ADV понимать_VERB /_PUNCT что_SCONJ ничто_PRON другой_	livecorpus2021_lemma_pos.1.txt
+6	  на_ADP съемка_NOUN //_PUNCT  я_PRON верно_	ADV понимать_VERB ?_PUNCT //_PUNCT  что_PRON самый_DET 	livecorpus2021_lemma_pos.1.txt
+7	 _VERB //_PUNCT  это_PRON /_PUNCT я_PRON так_	ADV понимать_VERB /_PUNCT огромный_ADJ шаг_NOUN вперед_	livecorpus2021_lemma_pos.1.txt
+8	  зритель_NOUN /_PUNCT который_PRON не_PART очень_	ADV понимать_VERB /_PUNCT что_PRON это_PRON такой_	livecorpus2021_lemma_pos.1.txt
+9	 _PART плохой_ADJ все_PRON я_PRON так_	ADV понимать_VERB /_PUNCT справляться_VERB //_PUNCT  ну_PART 	livecorpus2021_lemma_pos.1.txt
+10	 _NUM год_NOUN ?_PUNCT //_PUNCT  я_PRON правильно_	ADV понимать_VERB /_PUNCT что_SCONJ это_PRON /_PUNCT 	livecorpus2021_lemma_pos.1.txt
+11	 _VERB ознакомиться_VERB уже_ADV я_PRON так_	ADV понимать_VERB да_PART ?_PUNCT //_PUNCT  добрый_ADJ 	livecorpus2021_lemma_pos.1.txt
+12	 _PRON /_PUNCT ээ_INTJ //_PUNCT  я_PRON так_	ADV понимать_VERB даже_PART в_ADP какой-то_	livecorpus2021_lemma_pos.1.txt
+13	 _PART /_PUNCT ээ_INTJ /_PUNCT я_PRON так_	ADV понимать_VERB и_CCONJ вы_PRON в_ADP 	livecorpus2021_lemma_pos.1.txt
+14	 _CCONJ поэтому_ADV все_PRON все_PRON прекрасно_	ADV понимать_VERB и_CCONJ никакой_DET проблема_NOUN 	livecorpus2021_lemma_pos.1.txt
+15	  …_PUNCT звонок_NOUN Нечаев_PROPN мы_PRON конечно_	ADV понимать_VERB что_PRON это_PRON //_PUNCT  определенно_	livecorpus2021_lemma_pos.1.txt
+16	 DET неспокойствие_NOUN //_PUNCT  я_PRON правильно_	ADV понимать_VERB что_SCONJ это_PRON /_PUNCT тот_	livecorpus2021_lemma_pos.1.txt
